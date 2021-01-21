@@ -559,7 +559,7 @@ public class TouchHelperServiceImpl {
 //        Log.d(TAG, "Start Skip-ad process");
         b_method_by_activity_position = true;
         b_method_by_activity_widget = true;
-        b_method_by_button_keyword = true;
+        b_method_by_button_keyword = false;
         setWidgets = null;
         packagePositionDescription = null;
 
